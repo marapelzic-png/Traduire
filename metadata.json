@@ -1,0 +1,5 @@
+{
+  "name": "yurutraduit",
+  "description": "A high-performance translation app powered by Gemini AI, featuring real-time translation, language detection, and a clean, minimal interface.",
+  "requestFramePermissions": []
+}
